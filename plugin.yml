@@ -1,0 +1,15 @@
+name: BetterNight
+version: 1.0
+main: me.zenith.betternight.BetterNight
+author: Zenith Ajinkya
+api-version: 1.13
+
+commands:
+  cme:
+    description: Creative me
+  sme:
+    description: Survival me
+  opme:
+    description: Op me
+  deopme:
+    description: Deop me
